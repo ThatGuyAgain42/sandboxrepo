@@ -25,3 +25,7 @@ sometimes i see css or html that import from github sources that bring you to a 
 [![image](https://user-images.githubusercontent.com/46064402/131100491-d6affddd-71b7-4175-aeb0-11615e445776.png)](https://raw.githubusercontent.com/ThatGuyAgain42/sandboxrepo/main/figured%20out%20how%20to%20make%20folders/cooltext391689395848516.png)
 
 just a side note: i really like how the update changelog is labled "BLAME" thats so funny
+
+# theres actually built in task lists with markdown:
+- [x] this is a complete item
+- [ ] this is an incomplete item

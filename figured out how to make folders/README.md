@@ -29,3 +29,5 @@ just a side note: i really like how the update changelog is labled "BLAME" thats
 # theres actually built in task lists with markdown:
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+**so stop strikethruing everything**

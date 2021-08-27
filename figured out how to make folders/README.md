@@ -21,3 +21,6 @@ things i want to figure out:
 sometimes i see css or html that import from github sources that bring you to a page of just the raw source text~~ maybe the big "RAW" button
 
 > ~~hyperlinks in readme files? is it possible? [maybe its like reddit](https://raw.githubusercontent.com/ThatGuyAgain42/sandboxrepo/main/figured%20out%20how%20to%20make%20folders/cooltext391689395848516.png)~~ yep. its just like reddit
+
+[![image](https://user-images.githubusercontent.com/46064402/131100491-d6affddd-71b7-4175-aeb0-11615e445776.png)](https://raw.githubusercontent.com/ThatGuyAgain42/sandboxrepo/main/figured%20out%20how%20to%20make%20folders/cooltext391689395848516.png)
+

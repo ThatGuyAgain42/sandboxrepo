@@ -1,5 +1,6 @@
 # sandboxrepo
-familiarizing myself with how repos work the hard way via attempting to make an osu skin
+familiarizing myself with how repos work the hard way via attempting to make an osu skin.
+Inspired by the Dracula programming color pallet
 
 # Todo:
 > Ranking letters

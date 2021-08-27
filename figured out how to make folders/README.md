@@ -8,3 +8,11 @@ test of adding an image to readme:
 ![cooltext391688485045743](https://user-images.githubusercontent.com/46064402/131096058-8957a4fc-b3cc-4a68-b032-9d7d1a2dff20.gif)
 
 ok sick
+
+what about videos??
+
+
+
+https://user-images.githubusercontent.com/46064402/131096374-c7a267b9-1644-4115-afaa-34fd930f8434.mp4
+
+

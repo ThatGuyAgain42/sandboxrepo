@@ -37,3 +37,8 @@ test|test|test
 -|-|-
 does|this|work?
 yes|it|do
+
+oh also
+- dashes
+- for
+- lists

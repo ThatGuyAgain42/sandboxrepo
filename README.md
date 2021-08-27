@@ -13,4 +13,4 @@ familiarizing myself with how repos work the hard way via attempting to make an 
 > Section pass/fail
 
 Optional:
-welcome text
+Welcome text

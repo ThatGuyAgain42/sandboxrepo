@@ -20,4 +20,4 @@ things i want to figure out:
 > ~~how to get a link to file contents.
 sometimes i see css or html that import from github sources that bring you to a page of just the raw source text~~ maybe the big "RAW" button
 
-> hyperlinks in readme files? is it possible?
+> hyperlinks in readme files? is it possible? [maybe its like reddit](https://raw.githubusercontent.com/ThatGuyAgain42/sandboxrepo/main/figured%20out%20how%20to%20make%20folders/cooltext391689395848516.png)

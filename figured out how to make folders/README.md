@@ -31,3 +31,9 @@ just a side note: i really like how the update changelog is labled "BLAME" thats
 - [ ] this is an incomplete item
 
 **so stop strikethruing everything**
+
+you can also make tables
+test|test|test
+-|-|-
+does|this|work?
+yes|it|do
